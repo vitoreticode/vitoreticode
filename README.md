@@ -1,5 +1,7 @@
 ### Welcome to my personal stackoverflow! 👋
 
+# I'm a lot curious about tech, and love to learn new things
+
 <!--
 **vitoreticode/vitoreticode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
